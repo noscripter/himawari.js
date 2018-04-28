@@ -13,7 +13,7 @@
   "dependencies": {
     "async": "^1.5.2",
     "cliclopts": "^1.1.1",
-    "deep-extend": "^0.4.1",
+    "deep-extend": "^0.5.1",
     "gm": "^1.21.1",
     "minimist": "^1.2.0",
     "moment": "^2.11.2",
